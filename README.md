@@ -28,7 +28,7 @@
 [![Open Pull Requests](https://img.shields.io/github/issues-pr-raw/Ninjas-Code-official/Enatega-Multivendor-Food-Delivery-Solution.svg)](https://github.com/Ninjas-Code-official/Enatega-Multivendor-Food-Delivery-Solution/pulls)
 [![Activity](https://img.shields.io/github/last-commit/Ninjas-Code-official/Enatega-Multivendor-Food-Delivery-Solution.svg)](https://github.com/Ninjas-Code-official/Enatega-Multivendor-Food-Delivery-Solution/commits/main)
 [![YouTube Channel](https://img.shields.io/badge/Watch_us-Youtube-red)](https://www.youtube.com/@ninjascode509)
-[![Company Website](https://img.shields.io/badge/Visit_us-Website-blue)](https://enatega.com)
+[![Company Website](https://img.shields.io/badge/Visit_us-Website-blue)](https://enatega.com/book-a-call/)
 [![Closed Issues](https://img.shields.io/github/issues-closed/Ninjas-Code-official/Enatega-Multivendor-Food-Delivery-Solution?color=success)](https://github.com/Ninjas-Code-official/Enatega-Multivendor-Food-Delivery-Solution/issues?q=is%3Aissue+is%3Aclosed)
 [![Closed Pull Requests](https://img.shields.io/badge/Closed%20Pull%20Requests-View%20on%20GitHub-blue.svg)](https://github.com/Ninjas-Code-official/Enatega-Multivendor-Food-Delivery-Solution/pulls?q=is%3Apr+is%3Aclosed)
 
@@ -230,7 +230,7 @@ The frontend source code for our solution is completely open source. However, th
 
 ## :mailbox_with_mail: Contact Us: <a id="heading-13"></a>
 
-[Check out the Product Page and Pricing and more for Enatega Multivendor Food Delivery Solution](https://enatega.com/?utm_source=github&utm_medium=referral&utm_campaign=github_guide&utm_id=12345678)
+[Check out the Product Page and Pricing and more for Enatega Multivendor Food Delivery Solution](https://enatega.com/book-a-call/?utm_source=github&utm_medium=referral&utm_campaign=github_guide&utm_id=12345678)
 
 ## :computer: Project Setup Guide <a id="heading-15"></a>
 
